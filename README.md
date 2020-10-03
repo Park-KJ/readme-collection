@@ -7,3 +7,4 @@
 
 ### 프로젝트
 - [공통] PR템플릿: [pull_request_template.md](https://github.com/wecode-bootcamp/readme-collection/blob/main/pull_request_template.md)
+- [공통] README.md: [project.md](https://github.com/wecode-bootcamp/readme-collection/blob/main/project.md)
