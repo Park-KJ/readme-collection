@@ -2,34 +2,42 @@
 *그대로 따라서 작성하면, 다른 프로젝트와 획일화 되어서 특별해보이지 않습니다. 나만의 언어로 나의 소중한 프로젝트를 특별하게 설명해주세요*
 
 ## oo 프로젝트 Front-end/Back-end 소개
-
+- 주소 : https://www.drmartens.co.kr/
 - 국내 최대 포털 사이트 [네이버](https://www.naver.co.kr/) 클론 프로젝트
 - 짧은 프로젝트 기간동안 개발에 집중해야 하므로 디자인/기획 부분만 클론했습니다.
 - 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 데모 영상에서 보이는 부분은 모두 백앤드와 연결하여 실제 사용할 수 있는 서비스 수준으로 개발한 것입니다.
 
 ### 개발 인원 및 기간
 
-- 개발기간 : 2030/1/1 ~ 2030/1/14
-- 개발 인원 : 프론트엔드 3명, 백엔드 2명
-- [백엔드 github 링크]()
+- 개발기간 : 2023/9/18 ~ 2023/10/6(9/25~10/1은 추석 연휴기간으로 프로젝트 미진행)
+- 개발 인원 : 프론트엔드 3명, 백엔드 4명
+- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/49-2nd-ABC-Martens-backend.git)
+
+
+
 
 ### 프로젝트 선정이유
 
 - 이 사이트는,
 
 ### 데모 영상(이미지 클릭)
+https://github.com/Park-KJ/readme-collection/assets/132734576/b0c9982b-fb0d-4ee4-99f5-fe2abac38e7c
+
 
 *유투브 영상 링크나 캡쳐 이미지 넣어주세요.*
 
 <br>
+
+
+
 
 ## 적용 기술 및 구현 기능
 
 ### 적용 기술
 
 > - Front-End : React.js, sass, slick, react-modal
-> - Back-End : Python, Django web framework, Beautifulsoup, Selenium, Bcrypt, My SQL
-> - Common : KAKAO social login, AWS(EC2,RDS), RESTful API
+> - Back-End : Bcrypt, My SQL
+> - Common : KAKAO social login, AWS(EC2,RDS), RESTful API, Rayered Pattern
 
 
 
